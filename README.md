@@ -1,7 +1,7 @@
 # Traffic-Light_Color_Detector
-![alt text](https://github.com/Will-J-Gale/GTA-Fully-Convolutional-Lane-Finding/blob/master/Images/3.%20LaneFinding.gif)
-![alt text](https://github.com/Will-J-Gale/GTA-Fully-Convolutional-Lane-Finding/blob/master/Images/3.%20LaneFinding.gif)  
-![alt text](https://github.com/Will-J-Gale/GTA-Fully-Convolutional-Lane-Finding/blob/master/Images/3.%20LaneFinding.gif)  
+![alt text](https://github.com/Will-J-Gale/Traffic-Light-Color-Detector/blob/master/Gif%20Images/TLD_1.gif)
+![alt text](https://github.com/Will-J-Gale/Traffic-Light-Color-Detector/blob/master/Gif%20Images/TLD_2.gif)  
+![alt text](https://github.com/Will-J-Gale/Traffic-Light-Color-Detector/blob/master/Gif%20Images/TLD_3.gif)  
 
 ## Description
 This project utilizes the Yolo Keres from https://github.com/qqwweee/keras-yolo
