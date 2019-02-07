@@ -9,6 +9,7 @@ This project utilizes the Yolo Keres from https://github.com/qqwweee/keras-yolo
    1. Objects are first detected using the Yolo Model
    2. If any traffic lights are detected, a crop of the traffic light in our lane is taken and resized to 60x120 (HxW)
    3. This cropped image is fed into another convolutional network which classifies the color of the traffic light
+   4. The color of the light is shown by the coloured circles at the right side of the image
 
 ## Prerequisites 
 1. GTA 5 + Mods (Not all mods are 100% necessary)
@@ -26,6 +27,8 @@ This project utilizes the Yolo Keres from https://github.com/qqwweee/keras-yolo
 
 ## Usage
 It is recommended to use dual monitors
+1. Download Yolo weights from : https://drive.google.com/open?id=1mmEC5qtVq8pm0jRiTfGVKe6etUP2lFbW
+    * Put this __yolo.hf__ file in the __data__ folder
 1. Run GTA5 in windowed mode 1280x720
 2. Find a car and enable Hood Camera
 3. Run Traffic Light Detector.py
