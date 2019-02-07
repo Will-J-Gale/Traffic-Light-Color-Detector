@@ -27,7 +27,7 @@ This project utilizes the Yolo Keres from https://github.com/qqwweee/keras-yolo
 
 ## Usage
 It is recommended to use dual monitors
-1. Download Yolo weights from : https://drive.google.com/open?id=1mmEC5qtVq8pm0jRiTfGVKe6etUP2lFbW
+1. Download Yolo weights from: https://drive.google.com/open?id=1mmEC5qtVq8pm0jRiTfGVKe6etUP2lFbW
     * Put this __yolo.hf__ file in the __data__ folder
 1. Run GTA5 in windowed mode 1280x720
 2. Find a car and enable Hood Camera
